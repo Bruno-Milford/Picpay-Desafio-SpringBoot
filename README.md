@@ -31,12 +31,6 @@ docker-compose up
 - Executar a aplicação Spring Boot
 - Acessar aplicação em `http://localhost:8080`.
 
-## Arquitetura
-
-![Desenho de Arquitetura](.github/Desenho%20de%20Arquitetura.png)
-
-![Diagrama de Atividades](.github/Diagrama%20de%20Atividades.png)
-
 ## API
 
 - http :8080/transaction value=100.0 payer=1 payee=200
